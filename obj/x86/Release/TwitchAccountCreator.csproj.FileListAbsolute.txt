@@ -1,0 +1,11 @@
+C:\Users\Tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.exe.config
+C:\Users\Tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\x86\Release\TwitchAccountCreator.exe
+C:\Users\Tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\x86\Release\TwitchAccountCreator.pdb
+C:\Users\Tarro\Documents\Visual Studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.exe
+C:\Users\Tarro\Documents\Visual Studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.pdb
+C:\Users\Tarro\Documents\Visual Studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TOR_Activator.dll
+C:\Users\Tarro\Documents\Visual Studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\WatiN.Core.dll
+C:\Users\Tarro\Documents\Visual Studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\Interop.SHDocVw.dll
+C:\Users\Tarro\Documents\Visual Studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TOR_Activator.pdb
+C:\Users\Tarro\Documents\Visual Studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\WatiN.Core.xml
+C:\Users\Tarro\Documents\Visual Studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\x86\Release\TwitchAccountCreator.csprojResolveAssemblyReference.cache

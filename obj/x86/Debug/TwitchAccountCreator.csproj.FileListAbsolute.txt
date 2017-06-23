@@ -1,0 +1,9 @@
+c:\users\tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\x86\Debug\TwitchAccountCreator.csprojResolveAssemblyReference.cache
+c:\users\tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\TwitchAccountCreator.exe.config
+c:\users\tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\TwitchAccountCreator.exe
+c:\users\tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\TwitchAccountCreator.pdb
+c:\users\tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\WatiN.Core.dll
+c:\users\tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\Interop.SHDocVw.dll
+c:\users\tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\WatiN.Core.xml
+c:\users\tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\x86\Debug\TwitchAccountCreator.exe
+c:\users\tarro\documents\visual studio 2010\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\x86\Debug\TwitchAccountCreator.pdb
